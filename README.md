@@ -8,7 +8,7 @@
 
 I'm a programmer passionate about problem-solving, improving developer tooling and experiences, game programming, Linux, and open-source software.
 
-You can also find my photograph on [Unsplash](https://unsplash.com/@northernpaws).
+You can also find my photography on [Unsplash](https://unsplash.com/@northernpaws).
 
 ### Langauges and Tools
 
