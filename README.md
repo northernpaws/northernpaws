@@ -8,8 +8,6 @@
 
 I'm a programmer passionate about problem-solving, improving developer tooling and experiences, game programming, Linux, and open-source software.
 
-<br />
-
 ### Langauges and Tools
 
 <!-- https://badges.pages.dev/ -->
