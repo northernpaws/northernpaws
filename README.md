@@ -6,7 +6,7 @@
 <br />
 <br />
 
-I'm a programmer passionate about problem-solving, improving developer tooling and experiences, game programming, Linux, and open-source software.
+I'm a sysadmin/programmer passionate about problem-solving, improving developer tooling and experiences, game programming, Linux, and open-source software. Recently I've been learning more about the Linux kernel, embedded programming, and circuit board design with the goal of fabricating some of my own devices and tools!
 
 You can also find my photography on [Unsplash](https://unsplash.com/@northernpaws).
 
